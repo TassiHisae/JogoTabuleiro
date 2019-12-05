@@ -1,0 +1,19 @@
+C:\Users\tassi.LAPTOP-RD0CSL1O\source\repos\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.exe.config
+C:\Users\tassi.LAPTOP-RD0CSL1O\source\repos\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.exe
+C:\Users\tassi.LAPTOP-RD0CSL1O\source\repos\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.pdb
+C:\Users\tassi.LAPTOP-RD0CSL1O\source\repos\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.csprojAssemblyReference.cache
+C:\Users\tassi.LAPTOP-RD0CSL1O\source\repos\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.Form1.resources
+C:\Users\tassi.LAPTOP-RD0CSL1O\source\repos\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.Properties.Resources.resources
+C:\Users\tassi.LAPTOP-RD0CSL1O\source\repos\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.cache
+C:\Users\tassi.LAPTOP-RD0CSL1O\source\repos\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.csproj.CoreCompileInputs.cache
+C:\Users\tassi.LAPTOP-RD0CSL1O\source\repos\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.exe
+C:\Users\tassi.LAPTOP-RD0CSL1O\source\repos\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.pdb
+E:\visual studio\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.exe.config
+E:\visual studio\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.exe
+E:\visual studio\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.pdb
+E:\visual studio\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.csprojAssemblyReference.cache
+E:\visual studio\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.Form1.resources
+E:\visual studio\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.Properties.Resources.resources
+E:\visual studio\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.cache
+E:\visual studio\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.exe
+E:\visual studio\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.pdb
